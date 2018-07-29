@@ -26,8 +26,8 @@ Sanity | Sanity | 50
 [Slowmo](./Writeups/Slowmo) | Pwn | 444
 [Fitblips](./Writeups/Fitblips) | Crypto | 50
 [GoCoin!](./Writeups/GoCoin) | Web | 50
-[GoCoin! Plus](./Writeups/GoCoin__Plus) | 50
-[GoCoin! Plus Plus](./Writeups/GoCoin__Plus_Plus) | 313
+[GoCoin! Plus](./Writeups/GoCoin__Plus) | Web | 50
+[GoCoin! Plus Plus](./Writeups/GoCoin__Plus_Plus) | Web | 313
 The Terminal | Web | 401 | 
 
 ## Partially solved / Solved after CTF
